@@ -10,12 +10,10 @@ In this session, you will learn how to publish a .NET CORE application into AWS 
 
 
 ** Prerequisites **
-```
 1. Visual Studio 2017 or 2019 <https://visualstudio.microsoft.com/vs/>
 2. AWS Toolkit for Visual Studio <https://aws.amazon.com/visualstudio/>
 3. Postman <https://www.getpostman.com/>
 4. Access Keys (See section below) 
-```
 
 ** Access Keys**
 
