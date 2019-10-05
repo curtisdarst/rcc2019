@@ -9,13 +9,13 @@ In this session, you will learn how to publish a .NET CORE application into AWS 
 * API web interface with Lambda
 
 
-** Prerequisites **
+### Prerequisites ###
 1. Visual Studio 2017 or 2019 <https://visualstudio.microsoft.com/vs/>
 2. AWS Toolkit for Visual Studio <https://aws.amazon.com/visualstudio/>
 3. Postman <https://www.getpostman.com/>
 4. Access Keys (See section below) 
 
-** Access Keys**
+### Access Keys###
 
 Using this url (gg) 
 
@@ -27,7 +27,7 @@ Using this url (gg)
 * API keys will only last for today. Message me for details on setting up your own.
 
 
-** Resources **
+### Resources ###
 
 Here are the resources and example projects
 
