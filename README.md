@@ -34,10 +34,10 @@ Here are the resources and example projects
 * PowerPoint Slides ()
 * Example #1 - Typical Web Application
   * Code ()
-  * Demo (https://ksk2fimm6j.execute-api.us-east-1.amazonaws.com/Prod)
+  * Demo (Demo link available soon)
 * Example #2 - Web API()
   * Code ()
-  * Demo (https://plwi4nz8r2.execute-api.us-east-1.amazonaws.com/Prod)
+  * Demo (Demo link available soon)
 
 
 ---
